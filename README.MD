@@ -46,13 +46,12 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Lexica.art e Leonardo.Ai para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
 
-- 
-- [Notion Template](https://www.notion.so/PAS-Podcast-AI-Studio-8641631f317047a5847404d31c28a9f1)
+- [Notion Template](https://www.notion.so/PAS-Podcast-AI-Studio-8641631f317047a5847404d31c28a9f1?p=7b8f4cf28d2a405da0019a6cf515642f&pm=c)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 
@@ -60,9 +59,33 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 Prompt chat gptpara criar roteiro:
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em "Física dos Pixels: A Ciência por Trás dos Jogos" e tem foco em física para o publico gamer 
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal Ciência todo dia
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade da Física nos video games
+- no bloco [CURIOSIDADE 2] sobre fisica computacional
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Zielle e esse foi o FísicaQuest dessa semana'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Zielle
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
+
+
+
 
 ## 👨‍💻 Expert
 
